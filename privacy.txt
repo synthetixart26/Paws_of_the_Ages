@@ -1,0 +1,66 @@
+PRIVACY POLICY
+Paws of the Ages
+Last updated: October 26, 2026
+
+1. Publisher and contact
+Marquis Sanchez publishes and operates Paws of the Ages as a sole proprietor based in Dallas–Fort Worth, Texas, United States. This is an individual business, not an LLC. For privacy questions or requests, email synthetixart26@gmail.com with “Paws of the Ages Privacy” in the subject. A parent or guardian may contact this address on a child's behalf.
+Mailing address: 188 Mill Creek Dr., Weatherford, TX 76085, United States.
+Privacy/parent telephone: +1 (949) 415-7231.
+
+2. Data on your device
+The game stores progress, currencies, unlocked cats, cards, quests, reward and offline timers, audio preferences and other settings in app storage on your device. The selected age range and completion of the age prompt are also stored only on this device. The game does not send that age range to the publisher or Google; current advertising requests use child-directed treatment for every age range. Advertising/privacy services may also store privacy-choice state on the device.
+
+This release does not require a player account and has no publisher-operated online profile, chat service, public posting or cloud-save service. The publisher has not integrated a separate gameplay analytics or crash-reporting service. Google's advertising services have their own measurement and diagnostic processing, described below. Local gameplay data is not uploaded to a publisher-operated server by this release.
+
+The game does not request access to contacts, camera, microphone, photos or precise GPS location. Advertising services can estimate a general location from an IP address without GPS permission.
+
+3. Google advertising and privacy services
+The Android app uses services supplied by Google LLC: AdMob/Google Mobile Ads SDK and Google User Messaging Platform (UMP). Optional rewarded-ad and privacy features communicate with Google. Test ads also use Google's services; a test label does not mean that no data leaves the device.
+
+Google documents that its Mobile Ads SDK processes IP addresses, app/ad interactions such as launches, taps and video views, performance/diagnostic information, and device or other identifiers. These support advertising delivery and measurement, service operation, analytics, security and fraud prevention. An IP address may estimate general location. Identifier use depends on the service and configuration.
+
+This Android configuration removes the Google advertising-ID permission and requests child-directed, under-age and G-rated advertising for all players, with non-personalized ad requests. The game does not send player names or email addresses to AdMob. Removing the advertising-ID permission does not remove all advertising data processing. The publisher does not request personalized advertising in this configuration.
+
+UMP manages privacy notices and choices where applicable. Privacy services can process network/device context and the choices needed to determine and remember privacy eligibility. Google receives information needed for its services. The publisher receives ad reporting and the earned/not-earned result used to grant a reward; the game does not provide the publisher with Google's complete device-level records.
+
+Google's policies and explanations:
+https://policies.google.com/privacy
+https://policies.google.com/technologies/partner-sites
+https://developers.google.com/admob/android/privacy/play-data-disclosure
+
+4. Support emails
+“Email support” opens your email application. Nothing is sent until you choose to send it. The publisher then receives your address, message and attachments, using them to answer you, diagnose the reported issue, handle a privacy request or meet legal obligations. Email is handled through the publisher's provider, Google/Gmail.
+
+Please do not send passwords, payment details, identity documents, a child's full name or contact details, or unrelated personal information. A parent should contact support for a child. If diagnostic details are needed, the publisher will ask for the minimum relevant information.
+
+5. Uses and recipients
+Local data enables gameplay, saves, settings and reward limits. Support information enables replies and problem resolution. Google processes advertising/privacy information as described above. Information may also be disclosed as reasonably necessary for a valid legal obligation, security, or establishing or defending a legal claim.
+
+The publisher does not offer game-save records or player contact lists for sale. Optional ads involve the separate Google data flows described here. Non-personalized ads do not mean no collection or sharing. This policy does not represent that every advertising flow is exempt from a jurisdiction's definition of sale or sharing.
+
+6. Children and parents
+The game is intended to be suitable for younger players as well as teens and adults. It does not invite children to submit names, email addresses, photos, voice recordings or public posts. Current ad requests apply child-directed and under-age treatment to everyone. Advertising/privacy choices are separate from permission to play; reading a policy or accepting terms does not provide verifiable parental consent.
+
+A parent can review or remove a child's local data through the device's app-storage controls and contact the publisher about support information. To request review, deletion or an end to further processing of information the publisher holds, use the privacy address. Only information reasonably needed to verify and handle the request will be requested. Google-controlled information must also be addressed through Google's controls. Local progress cannot be looked up by a player's name because this release has no player accounts.
+
+7. Choices and deletion
+Core gameplay is available without choosing rewarded ads. Settings > Privacy > Ad privacy choices opens Google's available privacy-options interface on supported Android builds. Available choices depend on the service and applicable region. You can choose not to use optional ads. Android and Google settings may offer additional controls.
+
+To erase local progress and settings, use Android Settings > Apps > Paws of the Ages > Storage > Clear data/storage, or uninstall. Menu names vary. This permanently removes local progress; the publisher cannot restore it from an account. Local deletion does not necessarily erase information previously received by Google or emails already sent.
+
+For access to, correction of or deletion of support information held by the publisher, email synthetixart26@gmail.com. Depending on where you live, you may have rights to object, restrict processing, obtain a copy, withdraw consent, appeal a privacy decision or complain to a data-protection authority. Requests will be handled as applicable law requires, without penalizing a player for exercising those rights. Withdrawal applies going forward and does not undo earlier lawful processing.
+
+8. Retention
+Local data remains until overwritten, reset or deleted through app-storage controls or uninstall. Support correspondence is retained while needed to resolve the request and necessary follow-up, or to meet a legal obligation or handle a dispute. Unnecessary information is deleted when that need ends. Earlier deletion may be requested, subject to lawful retention requirements.
+
+Google controls retention of information it receives under its applicable policies. The publisher cannot promise a universal deletion date for Google's records or deletion of data independently held by Google.
+
+9. Security and international processing
+Android app storage and device security help protect local saves. Local saves are not an encrypted cloud backup. No method is completely secure. Google documents TLS encryption in transit for data collected by its Mobile Ads SDK.
+
+The publisher is based in the United States. Support and Google services may process information in the United States and other countries where providers operate. Google's policies describe its international processing and safeguards. This policy does not claim that the publisher is certified under a privacy-transfer framework.
+
+10. External sites and changes
+External ad destinations and websites have their own privacy practices. A separately hosted website may also have hosting/network practices that must be described on that website as applicable.
+
+Updates to this policy will have a new last-updated date. Material changes will receive appropriate notice and any further consent required by law. The current privacy contact is synthetixart26@gmail.com.
